@@ -18,6 +18,6 @@
 - Redeploy the api
 
 ### 4. Add bot link to channel post
-- Follow this youtube guide to add your bot to the channel
+- Follow this [youtube guide](https://www.youtube.com/watch?v=OuWiP7tjIi4&t=414s) to add your bot to the channel
 - Create the post through the bot
 - In middle of the creating post process, add `URL Buttons` using this link [https://quest.aigo.network/#telegram](https://quest.aigo.network/#telegram)
